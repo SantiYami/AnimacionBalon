@@ -1,0 +1,8 @@
+#lienzo{
+	border: 1px #000;
+	background-color: #aaafff;
+}
+
+#balon,#fondo{
+	display: none;
+}
