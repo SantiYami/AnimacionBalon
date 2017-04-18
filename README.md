@@ -1,5 +1,5 @@
 ## AnimacionBalon
-Programas para modelos II en el que se aplica la recursividad en python
+Programa para modelos II 
 ## _Integrantes_
 ### David Santiago Garces Benitez(20151020032) 
 ### Thomas Daniel Avila(20151020012)
